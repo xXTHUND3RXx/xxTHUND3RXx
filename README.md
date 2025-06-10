@@ -2,10 +2,16 @@
 
 ###
 
+![Anime de programação](https://i.pinimg.com/originals/6b/f0/a5/6bf0a5d234d2f9b24dea9309636bf737.gif)
+
+##
+
 <p align="center">I'm a professional passionate about technology, video games, and everything related to geek culture.
 I started learning programming out of curiosity about how games and systems are built.
 I'm focused on improving my front-end skills and exploring back-end development to become a full-stack developer.
 Currently, I'm studying Systems Analysis and Development at UNISUAM University.</p>
+
+###
 
 <h3 align="left">Stack</h3>
 
