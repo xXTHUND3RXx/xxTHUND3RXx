@@ -2,6 +2,11 @@
 
 ###
 
+<p align="center">I'm a professional passionate about technology, video games, and everything related to geek culture.
+I started learning programming out of curiosity about how games and systems are built.
+
+Currently, I’m focused on improving my front-end skills and diving into back-end development to become a full-stack developer.</p>
+
 <h3 align="left">Stack</h3>
 
 ###
