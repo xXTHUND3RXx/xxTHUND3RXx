@@ -2,7 +2,7 @@
 
 ###
 
-![Anime de programação](https://i.pinimg.com/originals/6b/f0/a5/6bf0a5d234d2f9b24dea9309636bf737.gif)
+![Anime de programação](https://imgur.com/a/SyqOPnQ)
 
 ##
 
