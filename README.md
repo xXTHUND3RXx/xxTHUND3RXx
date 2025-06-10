@@ -2,7 +2,9 @@
 
 ###
 
-![Anime de programação](assets/programming.gif)
+<p align="center">
+  <img src="assets/programming.gif" alt="Anime de programação" />
+</p>
 
 ##
 
