@@ -2,7 +2,7 @@
 
 ###
 
-![Anime de programação](https://i.imgur.com/dfDkDGK.mp4)
+![Anime de programação](assets/programming.gif)
 
 ##
 
