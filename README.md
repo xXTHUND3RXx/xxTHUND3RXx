@@ -2,7 +2,7 @@
 
 ###
 
-![Anime de programação](https://imgur.com/gallery/programa-ao-com-anime-SyqOPnQ#dfDkDGK)
+![Anime de programação](https://i.imgur.com/dfDkDGK.mp4)
 
 ##
 
