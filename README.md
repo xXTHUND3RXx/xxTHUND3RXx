@@ -4,8 +4,8 @@
 
 <p align="center">I'm a professional passionate about technology, video games, and everything related to geek culture.
 I started learning programming out of curiosity about how games and systems are built.
-
-Currently, I’m focused on improving my front-end skills and diving into back-end development to become a full-stack developer.</p>
+I'm focused on improving my front-end skills and exploring back-end development to become a full-stack developer.
+Currently, I'm studying Systems Analysis and Development at UNISUAM University.</p>
 
 <h3 align="left">Stack</h3>
 
